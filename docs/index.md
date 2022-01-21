@@ -1,6 +1,6 @@
 # Tailwind Traders Website
 
-![Tailwind Traders Website](Documents/Images/Website.png)
+![Tailwind Traders Website](Docs/Website.png)
 
 
 [![Build status](https://dev.azure.com/TailwindTraders/Website/_apis/build/status/Website-CI)](https://dev.azure.com/TailwindTraders/Website/_build?definitionId=22)
