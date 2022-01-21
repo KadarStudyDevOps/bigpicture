@@ -8,7 +8,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Tailwind.Traders.Web.Standalone;
 
-// trigger a PR veriication build
+// trigger a PR veriication build new
 
 namespace Tailwind.Traders.Web
 {
