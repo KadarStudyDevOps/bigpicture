@@ -23,7 +23,7 @@ jobs:
 
     - name: Build and publish with dotnet
       working-directory: TailwindTraders.Website/Source/Tailwind.Traders.Web
-      run:
+      run: |
         dotnet build --configuration Release
         dotnet test --configuration Release
         dotnet publish -c Release -o publish
