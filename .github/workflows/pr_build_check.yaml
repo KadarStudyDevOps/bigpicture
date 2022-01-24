@@ -25,3 +25,5 @@ jobs:
       working-directory: TailwindTraders.Website/Source/Tailwind.Traders.Web
       run:
         dotnet build --configuration Release
+        dotnet test --configuration Release
+        dotnet publish -c Release -o publish
